@@ -21,8 +21,8 @@
     "url": "https://github.com/alonrbar/easy-template-x/issues"
   },
   "type": "commonjs",
-  "main": "dist/cjs/easy-template-x.js",
-  "module": "dist/es/easy-template-x.js",
+  "main": "dist/cjs/easy-template-x.cjs",
+  "module": "dist/es/easy-template-x.cjs",
   "typings": "dist/types/index.d.ts",
   "files": [
     "dist",
